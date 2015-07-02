@@ -20,7 +20,7 @@
 }
 
 - (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning]; 
+    [super didReceiveMemoryWarning]; //just testing
     // Dispose of any resources that can be recreated.
 }
 
